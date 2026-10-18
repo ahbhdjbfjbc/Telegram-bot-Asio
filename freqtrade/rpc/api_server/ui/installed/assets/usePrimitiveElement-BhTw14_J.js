@@ -1,0 +1,2 @@
+import{g as e,vn as t}from"./runtime-core.esm-bundler-B8D2lM98.js";import{i as n}from"./dist-CTAIy1TR.js";function r(){let r=t();return{primitiveElement:r,currentElement:e(()=>[`#text`,`#comment`].includes(r.value?.$el.nodeName)?r.value?.$el.nextElementSibling:n(r))}}export{r as t};
+//# sourceMappingURL=usePrimitiveElement-BhTw14_J.js.map
